@@ -48,5 +48,4 @@ public class CreateSliderHtml {
             System.out.println(ReplaceTags.getUSAGE());
         }
     }
-    
 }
